@@ -116,8 +116,8 @@ Cho phép người dùng tùy chỉnh trạng thái ban đầu của puzzle đ�
 3.  **Tải mã nguồn:**
     Clone repository này về máy của bạn:
     ```bash
-    git clone https://github.com/trihieuvo/8_puzzle_solver.git
-    cd 8_puzzle_solver
+    https://github.com/LoiNguyen2k5/PuzzleProjectt
+    cd PuzzleProjectt
     ```
     Hoặc tải về dưới dạng file ZIP và giải nén.
 
@@ -131,7 +131,7 @@ Cho phép người dùng tùy chỉnh trạng thái ban đầu của puzzle đ�
 -----------------------------------
 ## CẤU TRÚC THƯ MỤC (Gợi ý)
 -----------------------------------
-23110256_NguyenBaoLoi/
+PuzzleProjectt/
 ├── assets/  <------------------- THƯ MỤC NÀY
 │   └── gifs/ <----------------- VÀ THƯ MỤC CON NÀY
 │       ├── BlindSearch.gif
