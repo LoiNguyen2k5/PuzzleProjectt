@@ -72,13 +72,13 @@ Người dùng có thể chọn một trong các thuật toán sau để giải 
 *   Danh sách các bước giải chi tiết (trạng thái puzzle ở mỗi bước).
 
     <!-- GIF Demo Thông Tin Giải (Nếu có) -->
-    ![Demo Chỉnh Sửa Trạng Thái](assets/gifs/ChinhSuaTrangThai.gif)
+   
 
 ### 5. Chỉnh Sửa Trạng Thái (Nút "Chỉnh sửa trạng thái")
 Cho phép người dùng tùy chỉnh trạng thái ban đầu của puzzle để giải.
 
     <!-- GIF Demo Chỉnh Sửa Trạng Thái -->
-    ![Demo Chỉnh Sửa Trạng Thái](link_den_gif_cua_ban_chinh_sua_trang_thai.gif)
+  ![Demo Chỉnh Sửa Trạng Thái](assets/gifs/ChinhSuaTrangThai.gif)
 
 ### 6. Tìm Kiếm Mù (Nút "Tìm kiếm mù")
 *   Trình bày và giải đồng thời nhiều trạng thái puzzle ban đầu (trong video là 2 ví dụ).
