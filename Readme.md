@@ -129,17 +129,3 @@ Cho phép người dùng tùy chỉnh trạng thái ban đầu của puzzle đ�
     *(Lưu ý: Thay `main.py` bằng tên file thực thi chính của bạn nếu khác.)*
 
 -----------------------------------
-## CẤU TRÚC THƯ MỤC (Gợi ý)
------------------------------------
-PuzzleProjectt/
-├── assets/
-│ └── gifs/
-│ ├── BlindSearch.gif
-│ ├── DieuKhienTrucQuanHoa.gif
-│ ├── ChinhSuaTrangThai.gif
-│ ├── DemoChonThuatToan.gif
-│ ├── GiaiThuatToan.gif
-│ └── BackTracking.gif
-├── main.py # File chạy chính của bạn
-├── README.md # File bạn đang chỉnh sửa
-└── ... # (Các file và thư mục khác của project)
