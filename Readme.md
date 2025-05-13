@@ -132,14 +132,14 @@ Cho phép người dùng tùy chỉnh trạng thái ban đầu của puzzle đ�
 ## CẤU TRÚC THƯ MỤC (Gợi ý)
 -----------------------------------
 PuzzleProjectt/
-├── assets/  <------------------- THƯ MỤC NÀY
-│   └── gifs/ <----------------- VÀ THƯ MỤC CON NÀY
-│       ├── BlindSearch.gif
-│       ├── DieuKhienTrucQuanHoa.gif
-│       ├── ChinhSuaTrangThai.gif
-│       ├── DemoChonThuatToan.gif
-│       ├── GiaiThuatToan.gif
-│       └── BackTracking.gif
-├── main.py (hoặc file chạy chính của bạn)
-├── README.md (file bạn đang chỉnh sửa)
-└── ... (các file và thư mục khác của project)
+├── assets/
+│ └── gifs/
+│ ├── BlindSearch.gif
+│ ├── DieuKhienTrucQuanHoa.gif
+│ ├── ChinhSuaTrangThai.gif
+│ ├── DemoChonThuatToan.gif
+│ ├── GiaiThuatToan.gif
+│ └── BackTracking.gif
+├── main.py # File chạy chính của bạn
+├── README.md # File bạn đang chỉnh sửa
+└── ... # (Các file và thư mục khác của project)
