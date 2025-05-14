@@ -98,7 +98,7 @@ Cho phép người dùng tùy chỉnh trạng thái ban đầu của puzzle đ�
 ## CÔNG NGHỆ SỬ DỤNG
 -----------------------------------
 *   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-*   ![Pygame](https://img.shields.io/badge/PyGame-005500?style=for-the-badge&logo=pygame&logoColor=white) <!-- Màu badge có thể không chính xác, bạn có thể tự tùy chỉnh -->
+*   ![Pygame](https://img.shields.io/badge/PyGame-005500?style=for-the-badge&logo=pygame&logoColor=white) 
 
 -----------------------------------
 ## CÀI ĐẶT VÀ CHẠY ỨNG DỤNG
@@ -122,10 +122,10 @@ Cho phép người dùng tùy chỉnh trạng thái ban đầu của puzzle đ�
     Hoặc tải về dưới dạng file ZIP và giải nén.
 
 4.  **Chạy ứng dụng:**
-    Chạy file Python chính của chương trình (giả sử là `main.py`):
+    Chạy file Python chính của chương trình (main.py`):
     ```bash
     python main.py
     ```
-    *(Lưu ý: Thay `main.py` bằng tên file thực thi chính của bạn nếu khác.)*
+   
 
 -----------------------------------
