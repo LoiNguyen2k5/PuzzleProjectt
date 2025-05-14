@@ -86,7 +86,7 @@ Cho phép người dùng tùy chỉnh trạng thái ban đầu của puzzle đ�
 *   Thông báo khi tất cả các trạng thái đã đạt được mục tiêu.
 
     <!-- GIF Demo Tìm Kiếm Mù Đa Trạng Thái -->
-    ![Demo Tìm Kiếm Mù Đa Trạng Thái](assets/gifs/BlindSearch.gif)
+   ![Demo Tìm Kiếm Mù Đa Trạng Thái](assets/gifs/BlindSearch.gif)
 ### 7. Hoạt Ảnh Điền Số (Nút "Hoạt ảnh điền số")
 *   Một tính năng phụ trợ trực quan hóa quá trình điền các số từ 1 đến 9 vào một lưới 3x3.
 *   Người dùng có thể chọn "Trạng Thái Đích" (cấu hình số cuối cùng) trước khi bắt đầu hoạt ảnh.
